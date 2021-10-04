@@ -1,1 +1,1 @@
-This is my first GIT project YAY! Hellow world bitches!
+This is my first GIT project YAY! Hello world bitches!
